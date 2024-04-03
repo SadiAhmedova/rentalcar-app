@@ -28,10 +28,10 @@ git clone https://github.com/Sadito16/rentalcar-app.git
 3. Install dependencies:
 npm install
 
-4.Start the development server(for example in vs code):
+4. Start the development server(for example in vs code):
 npm run dev
 
-5.Open your browser and navigate to http://localhost:3000 to view the app.
+5. Open your browser and navigate to http://localhost:3000 to view the app.
 
 
 ## License
