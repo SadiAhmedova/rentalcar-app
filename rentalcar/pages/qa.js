@@ -12,7 +12,7 @@ export default function QandA() {
     return (
       <div>
         <CustomHeader title="Q&A" />
-        <Navbar />  
+        <Navbar activeItem="Q&A" />  
 
         <div className="content">
           <div className="header">

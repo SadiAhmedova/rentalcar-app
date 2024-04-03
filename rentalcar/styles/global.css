@@ -170,11 +170,11 @@
      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
  }
  
- .car>img{
+ /* .car>img{
      height: 125px;
      width: 200px;
  }
- 
+  */
  
  .btn{
      background-color:#4B58FB; 
@@ -242,8 +242,8 @@
      border-radius: 2px;
  }
  .content{
-     padding: 0 30px;
-     margin-top: -2px;
+     padding: 10px 30px;
+    
  }
  
  
@@ -498,8 +498,6 @@
    margin-left: 20px;
  }
  
- .active{
+.active > a{
    color: #4B58FB;
-   border-bottom: none;
-   
- }
+}

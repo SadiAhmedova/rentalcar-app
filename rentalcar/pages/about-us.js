@@ -14,7 +14,7 @@ export default function AboutUs() {
 
       <div>
       <CustomHeader title="About Us" />
-      <Navbar />
+      <Navbar activeItem="AboutUs" /> 
 
 	  <div className="content">
 	  <div className="header">
@@ -56,7 +56,7 @@ export default function AboutUs() {
 					<p>"Superb service! Car was clean, new and in excellent condition. Easy and quick to get the keys and paperwork. I recommend this dealership to anyone looking for professionalism."</p>
 				</div>
 				<div>
-					<h2>Emma Ivanova</h2>
+					<h2>Ema Ivanova</h2>
 					<p>"Outstanding car rental company! Hassle-free booking process, no hidden fees or ambiguities. Staff were friendly and responsive. I'd be happy to use your services again!"</p>
 				</div>
 				<div>

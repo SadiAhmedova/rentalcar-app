@@ -12,7 +12,7 @@ export default function Index() {
     return (
       <div>
       <CustomHeader title="Homepage" />
-      <Navbar />   
+      <Navbar activeItem="Homepage" /> 
       <h1 className="welcome-text">Welcome to our rent  site!</h1>
 
       <div className="content">
@@ -35,7 +35,7 @@ export default function Index() {
       <h2>Offices in Bulgaria</h2>
       <p>Car Rental has offices at the following cities: Varna, Plovdiv, Rousse, Sofia, Burgas, Stara Zagora, Veliko Tarnovo, Pleven.</p>
 
-      <iframe className="officesMap" src="https://www.google.com/maps/d/embed?mid=13yXz5R8sa8dShV0kmqzsqkeNJ53GbAo&ehbc=2E312F" ></iframe>
+      <iframe className="officesMap" src="https://www.google.com/maps/d/embed?mid=13yXz5R8sa8dShV0kmqzsqkeNJ53GbAo&ehbc=2E312F"  async defer></iframe>
     </div>
     </div>
     </div>

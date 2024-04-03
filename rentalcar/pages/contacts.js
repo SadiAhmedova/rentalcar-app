@@ -16,7 +16,7 @@ export default function Contacts() {
 
         <div>
             <CustomHeader title="Contacts" />
-            <Navbar />   
+            <Navbar activeItem="Contacts" />   
             <div className="content">
             <div className="header">
                 <SearchCar /> 

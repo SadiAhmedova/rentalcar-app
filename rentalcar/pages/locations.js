@@ -11,7 +11,7 @@ export default function LocationsPage() {
     return (
         <div>
             <CustomHeader title="Locations" /> 
-            <Navbar />
+            <Navbar activeItem="Locations" />
 
             <div className="content">
                 <div className="header">

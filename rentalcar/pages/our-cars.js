@@ -13,7 +13,7 @@ export default function OurCars() {
     return (
       <div>
       <CustomHeader title="Our Cars" />
-      <Navbar />  
+      <Navbar activeItem="OurCars" />  
       <div className="content">
         <div className="header">
           <SearchCar />
