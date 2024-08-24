@@ -26,18 +26,18 @@ To set up and run the Farm App locally, follow these steps:
 
 3. **Navigate to the project directory:**
    ```bash
-   cd  rentalcar-app
+   cd  rentalcar-app/rentalcar
    ````
 
 5. **Install dependencies:**
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 5. **Start the development server(for example in vs code):**
-```bash
- npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 7. **Open Your Browser:**
 
