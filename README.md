@@ -50,6 +50,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contacts
 
-If you want to contact me. You have questions or if you want to write a recommendation - write to the indicated email: 
+If you have any questions or feedback, feel free to reach out via email:
 
 sadiiito123@gmail.com
