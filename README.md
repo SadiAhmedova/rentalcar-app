@@ -18,20 +18,30 @@ The project is written in JavaScript in next.js.
 
 To set up and run the Farm App locally, follow these steps:
 
-1. Clone the repository:
-git clone https://github.com/Sadito16/rentalcar-app.git
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Sadito16/rentalcar-app.git
+   ```
 
 
-2. Navigate to the project directory:
- cd  rentalcar-app
+3. **Navigate to the project directory:**
+   ```bash
+   cd  rentalcar-app
+   ````
 
-3. Install dependencies:
+5. **Install dependencies:**
+```bash
 npm install
+```
 
-4. Start the development server(for example in vs code):
-npm run dev
+5. **Start the development server(for example in vs code):**
+```bash
+ npm run dev
+```
 
-5. Open your browser and navigate to http://localhost:3000 to view the app.
+7. **Open Your Browser:**
+
+    Navigate to [http://127.0.0.1:3000/](http://127.0.0.1:3000/) to view the app.
 
 
 ## License
